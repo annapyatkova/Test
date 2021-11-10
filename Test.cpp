@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <cstdlib>
 #include <vector>
 #include <sstream>
 
@@ -121,4 +122,6 @@ int main()
             delete i;
         }
     }
+
+    system("pause");
 }
